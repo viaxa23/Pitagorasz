@@ -1,0 +1,41 @@
+body{
+    background-color: orange;
+}
+
+div{
+    width: 960px;
+    background-color: cornsilk;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+
+}
+h1{
+    text-align: center;
+    border-bottom: 6px double orange;
+    font-size: 28px;
+}
+h2{
+    border-bottom: 2px solid orange;
+    border-top: 2px solid orange;
+    margin-right: 50%;
+}
+p{
+    text-align: justify;
+}
+ul{
+    margin-left: 80px;
+}
+li{
+    margin-bottom: 5px;
+    text-align: justify;
+}
+img{
+    float: right;
+    width: 150px;
+    margin-left: 20px;
+    border: 2px solid orange;
+}
+footer{
+    float: left;
+}
